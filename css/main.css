@@ -1,0 +1,12 @@
+/* Шрифти */
+@import './../fonts/bitter-rose/stylesheet.css';
+@import './../fonts/cabinet-grotesk/stylesheet.css';
+@import './../fonts/chillax/css/chillax.css';
+
+/* Основні Стилі */
+@import './base/reset.css';
+@import './base/base.css';
+
+
+@import './blocks/header.css';
+@import './blocks/nav.css';
